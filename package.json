@@ -1,0 +1,14 @@
+{
+  "name": "int-u2l4-24-25-student-exercises",
+  "version": "1.0.0",
+  "description": "## 🎯 Objectives - Understand and use class attributes in HTML and CSS to style specific elements. - Differentiate between tag selectors and class selectors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
